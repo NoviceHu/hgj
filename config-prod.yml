@@ -1,1 +1,2 @@
-prod info:1
+config:
+  info: prod info:1
